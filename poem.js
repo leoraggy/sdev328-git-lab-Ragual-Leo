@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    Programmers dislike to repeat themselves. They are lazy. 
+    Programmers like to program. They are crazy.
+    Computers are stupid. They need to be told what to do.
+    Programmers are stupid and computers are lazy.
 `;
 
 console.log(poem);
